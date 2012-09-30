@@ -8,21 +8,6 @@
 %    Autor: Tomas Delvechio
 %    
 
-%   1.* Escribir las siguientes oraciones en Prolog:
-%   
-%   El oro es valioso.
-%   Isabel es mujer.
-%   Juan es Rey.
-%   Zeus es el progenitor de Hercules.
-%   José le presta dinero a Pedro.
-
-valioso(oro).
-mujer(isabel).
-rey(juan).
-progenitor(zeus,hercules).
-presta_dinero(jose,pedro).
-
-
 %    2.* Escribir en Prolog los datos relevantes, (a los efectos genealógicos), 
 %    del siguiente párrafo: "La familia de Luis no es muy numerosa, sus padres, 
 %    Carlos y Susana, tuvieron tres hijos: Roberto, Amalia, y Luis, de los cuales 
@@ -66,5 +51,4 @@ es_mujer(mercedes).
 es_mujer(angelica).
 es_mujer(laura).
 es_mujer(carla).
-
 
